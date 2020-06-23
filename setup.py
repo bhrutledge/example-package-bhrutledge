@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="example-pkg-bhrutledge",
-    version="0.0.4.dev1",
+    version="0.0.4a4",
     author="Example Author",
     author_email="author@example.com",
     description="A small example package",
