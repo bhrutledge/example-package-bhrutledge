@@ -17,5 +17,5 @@ python -m pip install -e .
 Run the tests:
 
 ```sh
-python -m unittest discover
+python -m unittest discover tests
 ```
