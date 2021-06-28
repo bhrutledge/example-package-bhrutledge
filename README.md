@@ -11,7 +11,9 @@ Install the packages required for development:
 ```sh
 python -m pip install -U pip
 
-python -m pip install -e . pytest
+python -m pip install -U pytest
+
+python -m pip install -e .
 ```
 
 Run the tests:
