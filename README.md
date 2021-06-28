@@ -11,11 +11,11 @@ Install the packages required for development:
 ```sh
 python -m pip install -U pip
 
-python -m pip install -e .
+python -m pip install -e . pytest
 ```
 
 Run the tests:
 
 ```sh
-python -m unittest discover tests
+pytest
 ```
