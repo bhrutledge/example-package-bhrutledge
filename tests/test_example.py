@@ -1,4 +1,4 @@
-from example_pkg import example
+from example_package_bhrutledge import example
 
 
 def test_adding_one_to_five_is_six():
